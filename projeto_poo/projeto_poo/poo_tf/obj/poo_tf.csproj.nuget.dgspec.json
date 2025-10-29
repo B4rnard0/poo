@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\berna\\Desktop\\projeto_poo\\projeto_poo\\poo_tf\\poo_tf.csproj": {}
+    "C:\\Users\\berna\\Desktop\\poo\\projeto_poo\\projeto_poo\\poo_tf\\poo_tf.csproj": {}
   },
   "projects": {
-    "c:\\Users\\berna\\Desktop\\projeto_poo\\projeto_poo\\poo_tf\\poo_tf.csproj": {
+    "C:\\Users\\berna\\Desktop\\poo\\projeto_poo\\projeto_poo\\poo_tf\\poo_tf.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\berna\\Desktop\\projeto_poo\\projeto_poo\\poo_tf\\poo_tf.csproj",
+        "projectUniqueName": "C:\\Users\\berna\\Desktop\\poo\\projeto_poo\\projeto_poo\\poo_tf\\poo_tf.csproj",
         "projectName": "poo_tf",
-        "projectPath": "c:\\Users\\berna\\Desktop\\projeto_poo\\projeto_poo\\poo_tf\\poo_tf.csproj",
+        "projectPath": "C:\\Users\\berna\\Desktop\\poo\\projeto_poo\\projeto_poo\\poo_tf\\poo_tf.csproj",
         "packagesPath": "C:\\Users\\berna\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\berna\\Desktop\\projeto_poo\\projeto_poo\\poo_tf\\obj\\",
+        "outputPath": "C:\\Users\\berna\\Desktop\\poo\\projeto_poo\\projeto_poo\\poo_tf\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
